@@ -7,17 +7,17 @@ $ whoami
             | |  ~$ _                    | | |       
             | |                          | | |       Name:       Mehdi Belhaj Amor
             | |                          | | |       Alias:      Aptx
-            | |                          | | |       Role:       Pentester, AppSec Consultant
+            | |                          | | |       Role:       Pentester, AppSec Specialist
             | |                          | | |       Location:   Tunisia
-            | |                          | | |       Uptime:     3+ YoE
-            | |__________________________| | ,       Focus:      Application Security, Secure Code Review, Cryptography
+            | |                          | | |       Uptime:     4 YoE
+            | |__________________________| | ,       Focus:      Penetration Testing, Application Security, Secure Code Review, Cryptography
           ,-|______________________________|/-,      
          /         (________________)        /|      
         /___________________________________/ |      contacts
        |                                    | |_     --------
        | [@]                   [==========] | | )    LinkedIn:   /in/mehdi-belhajamor/
        |____________________________________|/ /     Twitter:    @aptx0x
-       ____________________________________   /      Email:      mehdi.belhajamor4141@gmail.com
+       ____________________________________   /      Email:      mehdi.belhaj-amor@outlook.com
       / # = = = # # # = = =  # # #  /---/ /,_/
      / # = = = = = = = = #  # # #  = = # //
     / ## = = = = = = = ##    #    = = # /`
